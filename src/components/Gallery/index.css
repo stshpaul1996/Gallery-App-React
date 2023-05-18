@@ -1,0 +1,27 @@
+/* Write your code here. */
+.bg-page {
+  padding: 25px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 100%;
+  border-radius: 15px;
+}
+.nature {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+.nature-sa {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.list-container {
+  display: flex;
+  list-style: none;
+  margin-left: -35px;
+}
